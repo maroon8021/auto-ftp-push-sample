@@ -1,6 +1,6 @@
 # How to built this system
 ## 0. Architecture
-
+![Architecture](https://github.com/maroon8021/auto-ftp-push-sample/blob/master/img/Architecture.jpg)
 ## 1. Set up Jenkins
 ### 1-1. Build jenkins on docker
 `docker build -t jenkins-ftp-image .`  
