@@ -1,4 +1,4 @@
-# How to built this system
+# How to build this system
 ## 0. Architecture
 ![Architecture](https://github.com/maroon8021/auto-ftp-push-sample/blob/master/img/Architecture.jpg)
 ## 1. Set up Jenkins
